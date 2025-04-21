@@ -1,0 +1,6 @@
+{
+    "name": "Drosera Dev",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "features": {},
+    "postCreateCommand": "sudo apt update && sudo apt install -y curl libssl3"
+  }
